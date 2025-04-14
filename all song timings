@@ -1,12 +1,12 @@
-        function toFancyTimeFormat(time) {
-            let minutes = ~~((time % 3600) / 60);
-            let seconds = ~~time % 60;
-            if (seconds <= 9) seconds = `0${seconds}`;
-            return `${minutes}:${seconds}`;
-        }
+function toFancyTimeFormat(time) {
+    let minutes = ~~((time % 3600) / 60);
+    let seconds = ~~time % 60;
+    if (seconds <= 9) seconds = `0${seconds}`;
+    return `${minutes}:${seconds}`;
+}
 
-        const songs = [
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Headie_One_K-Trap_-_PARK_CHINOIS_(Hydr0.org).mp3"), lyrics: {
+const songs = [
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Headie_One_K-Trap_-_PARK_CHINOIS_(Hydr0.org).mp3"), lyrics: {
 '0:01' : "S-R-B separation confirmed",
 '0:05' : "Comin' up on, uh,",
 '0:06' : "stagin' the burnout of these",
@@ -174,8 +174,8 @@
 '3:15' : "but bro still ask",
 '3:16' : "can we bring it please",
 '3:17' : "Or a ZK at least",
-            }},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eurobeat_-_Manuel_-_Gas_Gas_Gas_(Hydr0.org).mp3"), lyrics: {
+}},
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eurobeat_-_Manuel_-_Gas_Gas_Gas_(Hydr0.org).mp3"), lyrics: {
 '0:17' : "Ahhhhh",
 '0:20' : "gas,",
 '0:21' : "Gas,",
@@ -273,8 +273,8 @@
 '4:05' : "Yeah yeah yeah!",
 '4:08' : "Gas Gas Gas!",
 '4:11' : "And you'll see the big show!",
-            }},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/verbatim_-_mother_mother_(Hydr0.org).mp3"), lyrics: {
+}},
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/verbatim_-_mother_mother_(Hydr0.org).mp3"), lyrics: {
                 '0:14' : "Oh, oh",
                 '0:15' : "Yeah, yeah",
                 '0:17' : "Oh, oh",
@@ -442,8 +442,8 @@
                 '3:35' : "Oh, and one day you will see",
                 '3:39' : "I found my inner beast",
                 '3:42' : "And you'll watch it release",
-            }},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/I_See_a_Dreamer_Dream_Team_Original_Song_-_CG5_(Hydr0.org).mp3"), lyrics: {
+}},
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/I_See_a_Dreamer_Dream_Team_Original_Song_-_CG5_(Hydr0.org).mp3"), lyrics: {
 '0:07' : "As the wind whips 'round",
 '0:10' : "I take a breath for victory",
 '0:15' : "Wanna play tag,",
@@ -542,9 +542,9 @@
 '3:03' : "Phobia,",
 '3:04' : "phobia,",
 '3:05' : "PhObIa",
-            }},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Gigi_Perez_-_Sailor_Song_(Hydr0.org).mp3"), lyrics: {
-                '0:25' : "I saw her in the rightest way",
+}},
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Gigi_Perez_-_Sailor_Song_(Hydr0.org).mp3"), lyrics: {
+'0:25' : "I saw her in the rightest way",
 '0:30' : "Looking like Anne Hathaway",
 '0:35' : "Laughing while she hit her pen",
 '0:40' : "And coughed,",
@@ -606,8 +606,8 @@
 '3:19' : "that we know nothing about",
 '3:22' : "We can go forever until",
 '3:24' : "you wanna sit it out"
-            }},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/he_Living_Tombstone_-_My_Ordinary_Life_(Hydr0.org).mp3"), lyrics: {
+}},
+{audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/he_Living_Tombstone_-_My_Ordinary_Life_(Hydr0.org).mp3"), lyrics: {
                 '0:30' : "They tell me keep it simple,",
                 '0:31' : "I tell them take it slow",
                 '0:32' : "I feed and water an idea,",
