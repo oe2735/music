@@ -204,13 +204,14 @@ class songChatoe2735 {
                 }
             }
         }
-        song.audio.onended = function() {
+        song.audio.onended = () => {
             this.playing = false;
             song.index = 0;
             this.lastSendTime = -1;
         }
     }
     pauseSong() {
+        this.playing = false;
         this.songs[this.currentSong].audio.pause();
         this.lastSendTime = -1;
     }
