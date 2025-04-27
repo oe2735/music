@@ -74,11 +74,11 @@ class songChatoe2735 {
 [169915, `My father told me`],
             ], index: 0},
             {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eurobeat_-_Manuel_-_Gas_Gas_Gas_(Hydr0.org).mp3"), lyrics: [
-[8522, `Ahhhhh`],
+[17000, `Ahhhhh`],
 [19954, `gas,`],
 [20720, `Gas,`],
 [21509, `gas`],
-[22147, `Ahhhhh`],
+[24000, `Ahhhhh`],
 [28432, `Do you like`],
 [29789, `My car?`],
 [31489, `my car`],
