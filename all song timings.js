@@ -274,7 +274,7 @@ class songChatoe2735 {
 [27215, `covered in ink and bleach`],
 [30746, `Cross out the ones who heard`],
 [33242, `my cries and watched me weep`],
-[36799, `I love everything`],
+[36700, `I love everything`],
 [39742, `Fire's spreading`],
 [41193, `all around my room`],
 [43257, `My world's so bright`],
@@ -295,7 +295,7 @@ class songChatoe2735 {
 [99084, `than all the other days`],
 [102780, `Sometimes I can't tell`],
 [104407, `if my body belongs to me`],
-[108852, `I love everything`],
+[108800, `I love everything`],
 [111452, `Fire's spreading`],
 [112835, `all around my room`],
 [115108, `My world's so bright`],
@@ -327,7 +327,7 @@ class songChatoe2735 {
 [201160, `Got dirty little lullabies`],
 [203140, `playing on repeat`],
 [204662, `Might as well just rot around`],
-[206289, `the nursery and count sheep`],
+[206200, `the nursery and count sheep`],
                 ], index: 0},
         ];
         this.playing = false;
