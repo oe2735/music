@@ -3,7 +3,7 @@ class songChatoe2735 {
         this.sendChat = sendChat;
         this.songs = [
             {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Avicii_-_The_Nights_(Hydr0.org).mp3"), lyrics: [
-[3300, `Once upon a younger year`],
+[3200, `Once upon a younger year`],
 [4895, `When all our shadows`],
 [5960, `disappeared`],
 [6805, `The animals inside`],
