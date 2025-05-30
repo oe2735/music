@@ -207,7 +207,7 @@ window.songChatoe2735 = class {
 [85965, `I think that you`],
 [87070, `are the one for me`],
 [91994, `'Cause it gets so`],
-[92696, `hard to breathe`],
+[92369, `hard to breathe`],
 [97220, `When you're looking at me,`],
 [98988, `I've never felt so`],
 [100361, `alive and free`],
