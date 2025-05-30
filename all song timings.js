@@ -1,4 +1,4 @@
-class songChatoe2735 {
+window.songChatoe2735 = class {
     constructor (sendChat) {
         this.sendChat = sendChat;
         this.songs = [
