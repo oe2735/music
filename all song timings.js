@@ -377,7 +377,7 @@ window.songChatoe2735 = class {
 [93989, `Scopin', scopin'`],
 [94560, `with that red dot`],
 [96801, `Scopin' with that red dot`],
-[98000, `Deep in the bushes, see`],
+[97969, `Deep in the bushes, see`],
 [99088, `I'm scopin' with that red dot`],
             ], index: 0},
         ];
