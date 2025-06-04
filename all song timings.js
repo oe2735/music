@@ -430,7 +430,7 @@ window.songChatoe2735 = class {
 [120424, `I say im turning red`],
 [121833, `They let me lie to them`],
 [122856, `and dont feel like`],
-[123892, `they've been misled`],
+[123800, `they've been misled`],
 [124661, `They give so much to me,`],
 [125733, `Im losing touch, get me?`],
 [127113, `Served on a silver platter,`],
