@@ -444,7 +444,7 @@ window.songChatoe2735 = class {
 [136306, `they never see mistakes`],
 [137493, `Makin' so much bread,`],
 [138562, `I don't care that`],
-[139569, `they're just fake`],
+[139300, `they're just fake`],
 [140468, `They tell me they're below me,`],
 [141579, `I act like im above`],
 [142638, `The people blend together,`],
