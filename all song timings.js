@@ -638,7 +638,7 @@ window.songChatoe2735 = class {
         this.playing = false;
         this.currentSong = null;
         this.lastSendTime = -1;
-        this.chat = true;
+        this.sing = true;
     }
     convertCurrenttime(seconds) {
         return Math.ceil(seconds*1000);
@@ -661,7 +661,7 @@ window.songChatoe2735 = class {
                 let time = array[0];
                 let part = array[1];
                 if (this.convertCurrenttime(song.audio.currentTime) >= (time - 200) && song.audio.currentTime - this.lastSendTime > 0.569) {
-                    if (this.chat) this.sendChat(part);
+                    if (this.sing) this.sendChat(part);
                     song.index++;
                     this.lastSendTime = song.audio.currentTime;
                 }
