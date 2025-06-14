@@ -656,7 +656,7 @@ window.songChatoe2735 = class {
 [27097, `for forgiveness,`],
 [27931, `you've been praying`],
 [28628, `for my health`],
-[29367, `When I leave this earth,`],
+[29500, `When I leave this earth,`],
 [30829, `hoping youll find someone else`],
 [32706, `Cause, yeah, were still young,`],
 [34232, `theres so much we haven't done`],
