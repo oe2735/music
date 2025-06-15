@@ -1136,7 +1136,7 @@ window.songChatoe2735 = class {
 [224382, `nyan nyan nyan nyan nyan nyan`],
 [225062, `nyan nyan nyan nyan nyan`],
                 ], index: 0},
-            {audio: new Audio(""), lyrics: [
+            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Olly_Murs_-_That_Girl_(Hydr0.org).mp3"), lyrics: [
                 [100, `There's a girl,`],
 [1850, `but I let her get away`],
 [5603, `It's all my fault,`],
