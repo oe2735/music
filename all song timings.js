@@ -1,7 +1,7 @@
 window.songChatoe2735 = class {
     constructor (sendChat) {
         this.sendChat = sendChat;
-        this.songs = [
+        this.songs = [w
             {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Avicii_-_The_Nights_(Hydr0.org).mp3"), lyrics: [
 [3200, `Once upon a younger year`],
 [4895, `When all our shadows`],
