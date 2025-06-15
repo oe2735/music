@@ -815,7 +815,7 @@ window.songChatoe2735 = class {
 [151000, `I'm gonna be your`],
 [152518, `bubblegum Bitch`],
                 ], index: 0},
-            {audio: new Audio:("https://github.com/oe2735/music/raw/refs/heads/main/NYAN_CAT_-_Nyan_Cat_Original_Mix_(Hydr0.org).mp3"), lyrics: [
+            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/NYAN_CAT_-_Nyan_Cat_Original_Mix_(Hydr0.org).mp3"), lyrics: [
                 [8822, `Nyan nyan nyan nyan nyan nyan`],
 [17644, `nyan nyan nyan nyan nyan nyan`],
 [26466, `nyan nyan nyan nyan nyan`],
