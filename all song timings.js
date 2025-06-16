@@ -1239,7 +1239,7 @@ window.songChatoe2735 = class {
 [17876, `And this one is`],
 [18712, `for the champions`],
 [21139, `I ain't lost since I began,`],
-[23569, `yeah`],
+[23400, `yeah`],
 [24000, `Funny how you said it`],
 [24880, `was the end, yeah`],
 [27360, `Then I went did it again, yeah`],
