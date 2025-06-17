@@ -1655,7 +1655,7 @@ window.songChatoe2735 = class {
 [113387, `love is still the same`],
 [115290, `Sunshine in the rain`],
 [117229, `(Sunshine in the rain)`],
-[133300, `When I'm in Berlin,`],
+[133369, `When I'm in Berlin,`],
 [135747, `you're off to London`],
 [137695, `When I'm in New York,`],
 [139409, `you're doing Rome`],
