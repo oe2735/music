@@ -1518,7 +1518,7 @@ window.songChatoe2735 = class {
 [53371, `She is always right there`],
 [55216, `when I need her`],
 [56668, `She walks like a model`],
-[59015, `She grants my wishes`],
+[59222, `She grants my wishes`],
 [60467, `like a genie in a bottle,`],
 [63335, `yeah, yeah`],
 [64427, `'Cause I'm the wizard of love`],
