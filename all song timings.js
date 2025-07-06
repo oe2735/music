@@ -179,7 +179,7 @@ window.songChatoe2735 = class {
 [19909, `play your game`],
 [23413, `But it's so good,`],
 [25263, `I've never known`],
-[26500, `anybody like you`],
+[26444, `anybody like you`],
 [29395, `But it's so good,`],
 [31377, `I've never dreamed`],
 [32581, `of nobody like you`],
