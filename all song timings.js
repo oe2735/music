@@ -1217,7 +1217,7 @@ window.songChatoe2735 = class {
 [153224, `lose that love`],
 [154507, `It's only gonna hurt too much`],
 [156406, `(I'm telling you)`],
-[157666, `you don't wanna lose that love`],
+[157600, `you don't wanna lose that love`],
 [159880, `It's only gonna hurt too much`],
 [161876, `(I'm telling you)`],
 [162189, `you don't wanna lose that love`],
