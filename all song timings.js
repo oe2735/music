@@ -1945,7 +1945,7 @@ window.songChatoe2735 = class {
 [20151, `You're saying I'm the one,`],
 [21507, `but it's your actions`],
 [23234, `that speak louder`],
-[26777, `Giving me love when you are`],
+[26700, `Giving me love when you are`],
 [28854, `down and need another`],
 [32722, `I've gotta get away an`],
 [34300, `let you go, Ive gotta get over`],
