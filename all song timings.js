@@ -3505,7 +3505,7 @@ window.songChatoe2735 = class {
 [15995, `Ratata ta tung (hey)`],
 [17897, `Ratata ta tung (hey)`],
 [19800, `Ratata ta tung tung tung SAHUR`],
-[23200, `Crank it up,`],
+[23169, `Crank it up,`],
 [23867, `here’s my master plan,`],
 [25200, `Steal the crown like`],
 [25969, `a wanted man,`],
