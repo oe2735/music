@@ -2,7 +2,7 @@ window.songChatoe2735 = class {
     constructor (sendChat) {
         this.sendChat = sendChat;
         this.songs = [
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Avicii_-_The_Nights_(Hydr0.org).mp3"), lyrics: [
+            {name: "Avicii - The Nights", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Avicii_-_The_Nights_(Hydr0.org).mp3"), lyrics: [
 [3200, `Once upon a younger year`],
 [4895, `When all our shadows`],
 [5960, `disappeared`],
@@ -73,7 +73,7 @@ window.songChatoe2735 = class {
 [163736, `Oh~`],
 [169915, `My father told me`],
             ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eurobeat_-_Manuel_-_Gas_Gas_Gas_(Hydr0.org).mp3"), lyrics: [
+            {name: "Initial D - Gas Gas Gas", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eurobeat_-_Manuel_-_Gas_Gas_Gas_(Hydr0.org).mp3"), lyrics: [
 [17000, `Ahhhhh`],
 [19954, `gas,`],
 [20720, `Gas,`],
@@ -172,7 +172,7 @@ window.songChatoe2735 = class {
 [248228, `Gas Gas Gas!`],
 [251217, `And you'll see the big show!`]
             ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ruth_B._-_Dandelions_(Hydr0.org).mp3"), lyrics: [
+            {name: "Ruth B - Dandelions", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ruth_B._-_Dandelions_(Hydr0.org).mp3"), lyrics: [
                 [12262, `Maybe it's the way you`],
 [13658, `say my name`],
 [18179, `Maybe it's the way you`],
@@ -264,7 +264,7 @@ window.songChatoe2735 = class {
 [216100, `you'd be mine,`],
 [219909, `mine`],
             ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sub_Urban_-_Cradles_(Hydr0.org).mp3"), lyrics: [
+            {name: "Sub Urban - Cradles", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sub_Urban_-_Cradles_(Hydr0.org).mp3"), lyrics: [
 [12757, `I live inside my own`],
 [15758, `world of make-believe`],
 [18587, `Kids screaming`],
@@ -329,7 +329,7 @@ window.songChatoe2735 = class {
 [204662, `Might as well just rot around`],
 [206200, `the nursery and count sheep`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/KORDHELL_-_SCOPIN_(Hydr0.org).mp3"), lyrics: [
+            {name: "Kord Hell - Scopin", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/KORDHELL_-_SCOPIN_(Hydr0.org).mp3"), lyrics: [
                 [2732, `I got that gauge 38`],
 [3934, `and that four-five Glock`],
 [5066, `Deep in the bushes, see`],
@@ -380,7 +380,7 @@ window.songChatoe2735 = class {
 [97969, `Deep in the bushes, see`],
 [99088, `I'm scopin' with that red dot`],
             ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/he_Living_Tombstone_-_My_Ordinary_Life_(Hydr0.org).mp3"), lyrics: [
+            {name: "The Living Tombstone - My Ordinary Life", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/he_Living_Tombstone_-_My_Ordinary_Life_(Hydr0.org).mp3"), lyrics: [
                 [29252, `They tell me keep it simple,`],
 [30570, `I tell them take it slow`],
 [31904, `I feed and water an idea,`],
@@ -478,7 +478,7 @@ window.songChatoe2735 = class {
 [195774, `I feel fear`],
 [196752, `for the very last time`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ed_Sheeran_-_Shape_of_You_(Hydr0.org).mp3"), lyrics: [
+            {name: "Ed Sheeran - Shape Of You", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ed_Sheeran_-_Shape_of_You_(Hydr0.org).mp3"), lyrics: [
                 [9932, `The club isn't the`],
 [10541, `best place to find a lover`],
 [11993, `So the bar is where I go`],
@@ -634,7 +634,7 @@ window.songChatoe2735 = class {
 [228190, `I'm in love with`],
 [228817, `the shape of you`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Powfu_beabadoobee_-_death_bed_coffee_for_your_head_(Hydr0.org).mp3"), lyrics: [
+            {name: "Powfu - Death Bed", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Powfu_beabadoobee_-_death_bed_coffee_for_your_head_(Hydr0.org).mp3"), lyrics: [
                 [100, `Don't stay awake for too long`],
 [3191, `Don't go to bed`],
 [5514, `I'll make a cup of coffee`],
@@ -737,7 +737,7 @@ window.songChatoe2735 = class {
 [168826, `I'll get you up and going`],
 [170323, `out of bed`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Marina_And_The_Diamonds_-_Bubblegum_Bitch_(Hydr0.org).mp3"), lyrics: [
+            {name: "Marina - Bubblegum Bitch", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Marina_And_The_Diamonds_-_Bubblegum_Bitch_(Hydr0.org).mp3"), lyrics: [
                 [14000, `I've got a figure`],
 [14710, `like a pin-up`],
 [15803, `Got a figure like a doll`],
@@ -815,7 +815,7 @@ window.songChatoe2735 = class {
 [151000, `I'm gonna be your`],
 [152518, `bubblegum Bitch`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/NYAN_CAT_-_Nyan_Cat_Original_Mix_(Hydr0.org).mp3"), lyrics: [
+            {name: "Nyan Cat!", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/NYAN_CAT_-_Nyan_Cat_Original_Mix_(Hydr0.org).mp3"), lyrics: [
                 [8822, `Nyan nyan nyan nyan nyan nyan`],
 [9502, `nyan nyan nyan nyan nyan nyan`],
 [10182, `nyan nyan nyan nyan nyan`],
@@ -1136,7 +1136,7 @@ window.songChatoe2735 = class {
 [224382, `nyan nyan nyan nyan nyan nyan`],
 [225062, `nyan nyan nyan nyan nyan`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Olly_Murs_-_That_Girl_(Hydr0.org).mp3"), lyrics: [
+            {name: "Olly Murs - That Girl", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Olly_Murs_-_That_Girl_(Hydr0.org).mp3"), lyrics: [
                 [100, `There's a girl,`],
 [1850, `but I let her get away`],
 [5603, `It's all my fault,`],
@@ -1226,7 +1226,7 @@ window.songChatoe2735 = class {
 [167479, `About that girl,`],
 [169222, `the one I let get away`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Lil_Nas_X_Jack_Harlow_-_INDUSTRY_BABY_(Hydr0.org).mp3"), lyrics: [
+            {name: "Lil Nax X - Industry Baby", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Lil_Nas_X_Jack_Harlow_-_INDUSTRY_BABY_(Hydr0.org).mp3"), lyrics: [
                 [4596, `D-D-Daytrip took it to ten`],
 [5869, `(hey!)`],
 [6764, `Baby back, ayy,`],
@@ -1366,7 +1366,7 @@ window.songChatoe2735 = class {
 [204555, `(yeah)`],
 [208888, `I'm the industry baby (yeah)`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Lollia_-_My_R_(Hydr0.org).mp3"), lyrics: [
+            {name: "Rachie - My R", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Lollia_-_My_R_(Hydr0.org).mp3"), lyrics: [
                 [726, `Just as I was about`],
 [1718, `to take my shoes`],
 [3397, `Off of the rooftop,`],
@@ -1492,7 +1492,7 @@ window.songChatoe2735 = class {
 [207265, `short as can be`],
 [209033, `Is gonna jump now and be free`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/OMI_-_Cheerleader_Felix_Jaehn_Remix_Radio_Edit_(Hydr0.org).mp3"), lyrics: [
+            {name: "OMI - Cheerleader", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/OMI_-_Cheerleader_Felix_Jaehn_Remix_Radio_Edit_(Hydr0.org).mp3"), lyrics: [
                 [16000, `When I need motivation`],
 [18499, `My one solution is my queen`],
 [20823, `'Cause she stay strong,`],
@@ -1561,7 +1561,7 @@ window.songChatoe2735 = class {
 [159145, `She is always right there`],
 [160952, `when I need her`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(Hydr0.org).mp3"), lyrics: [
+            {name: "Yung kai - Blue", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/yung_kai_-_yung_kai_-_blue_Official_Music_Video_(Hydr0.org).mp3"), lyrics: [
                 [19318, `Your morning eyes,`],
 [21690, `I could stare`],
 [22958, `like watching stars`],
@@ -1604,7 +1604,7 @@ window.songChatoe2735 = class {
 [154900, `So let me fly with you`],
 [158400, `Will you be forever with me?`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/BWO_-_Sunshine_In_The_Rain_Radio_Edit_(Hydr0.org).mp3"), lyrics: [
+            {name: "BWO - Sunshine In The Rain", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/BWO_-_Sunshine_In_The_Rain_Radio_Edit_(Hydr0.org).mp3"), lyrics: [
                 [14200, `When I'm in Berlin,`],
 [15676, `you're off to London`],
 [17826, `When I'm in New York,`],
@@ -1694,7 +1694,7 @@ window.songChatoe2735 = class {
 [203376, `love is still the same`],
 [205369, `Sunshine in the rain`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Post_malone_-_Circles_(Hydr0.org).mp3"), lyrics: [
+            {name: "Post Malone - Circles", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Post_malone_-_Circles_(Hydr0.org).mp3"), lyrics: [
                 [32944, `We couldn't turn around`],
 [36655, `'Til we were upside down`],
 [40486, `I'll be the bad guy now`],
@@ -1765,7 +1765,7 @@ window.songChatoe2735 = class {
 [193479, `but we're running in circles`],
 [196456, `Run away, run away, run away`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ledy_Gaga_-_Poker_face_(Hydr0.org).mp3"), lyrics: [
+            {name: "Lady Gaga - Poker Face", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Ledy_Gaga_-_Poker_face_(Hydr0.org).mp3"), lyrics: [
                 [7500, `Mum-mum-mum-mah`],
 [11666, `Mum-mum-mum-mah`],
 [15600, `Mum-mum-mum-mah`],
@@ -1877,7 +1877,7 @@ window.songChatoe2735 = class {
 [222124, `P-p-p-poker face,`],
 [223549, `f-f-Fuck her face`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Edward_Maya_ft._Vika_Jigulina_-_Stereo_love_(Hydr0.org).mp3"), lyrics: [
+            {name: "Edward Maya - Stereo Love", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Edward_Maya_ft._Vika_Jigulina_-_Stereo_love_(Hydr0.org).mp3"), lyrics: [
                 [4200, `When you gonna stop`],
 [5770, `breaking my heart?`],
 [11700, `I don't wanna be another one`],
@@ -1934,7 +1934,7 @@ window.songChatoe2735 = class {
 [176300, `My only dream`],
 [178000, `is about you and I`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Walters_-_I_Love_You_So_(Hydr0.org).mp3"), lyrics: [
+            {name: "The Walters - I Love You So", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Walters_-_I_Love_You_So_(Hydr0.org).mp3"), lyrics: [
                 [1250, `I just need someone in my life`],
 [3969, `to give it structure`],
 [7200, `To handle all the selfish ways`],
@@ -1976,7 +1976,7 @@ window.songChatoe2735 = class {
 [130696, `Ooh-ooh-ooh`],
 [137195, `Ooh-ooh-ooh-ooh`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sam_Gellaitry_-_Assumptions_(Hydr0.org).mp3"), lyrics: [
+            {name: "Sam Gellaitry - Assumptions", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sam_Gellaitry_-_Assumptions_(Hydr0.org).mp3"), lyrics: [
                 [60400, `If it's love that you want,`],
 [62769, `I'll give my everything`],
 [67800, `And have I made the`],
@@ -2008,7 +2008,7 @@ window.songChatoe2735 = class {
 [190600, `right assumption?`],
 [192745, `Do you feel the same?`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Weekend_-_Blinding_lights_(Hydr0.org).mp3"), lyrics: [
+            {name: "The Weekend - Blinding Lights", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Weekend_-_Blinding_lights_(Hydr0.org).mp3"), lyrics: [
                 [13769, `Yeah`],
 [27492, `I've been tryna call`],
 [30043, `I've been on my own`],
@@ -2075,7 +2075,7 @@ window.songChatoe2735 = class {
 [190269, `No, I can't sleep until`],
 [192304, `I feel your touch`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sia_-_Cheap_Thrill_(Hydr0.org).mp3"), lyrics: [
+            {name: "Sia - Cheap Thrills", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Sia_-_Cheap_Thrill_(Hydr0.org).mp3"), lyrics: [
                 [10883, `Come on, come on,`],
 [11732, `turn the radio on`],
 [13421, `It's Friday night`],
@@ -2150,7 +2150,7 @@ window.songChatoe2735 = class {
 [198708, `La, la, la, la, la, la, la`],
 [202137, `(I love cheap thrills)`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/ATC_-_Atc_-_Around_The_World_(Hydr0.org).mp3"), lyrics: [
+            {name: "ATC - Around The World", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/ATC_-_Atc_-_Around_The_World_(Hydr0.org).mp3"), lyrics: [
                 [8000, `The kisses of the sun`],
 [10147, `were sweet, I didn't blink`],
 [11527, `I let it in my eyes`],
@@ -2238,7 +2238,7 @@ window.songChatoe2735 = class {
 [195401, `La la la la la,`],
 [197444, `la la la la la la la`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Edward_Sharpe_The_Magnetic_Zeros_-_Home_o1day_(Hydr0.org).mp3"), lyrics: [
+            {name: "Edward Sharpe - Home", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Edward_Sharpe_The_Magnetic_Zeros_-_Home_o1day_(Hydr0.org).mp3"), lyrics: [
                 [18904, `Alabama, Arkansas`],
 [21420, `I do love my ma and pa`],
 [23135, `Not that way that`],
@@ -2332,7 +2332,7 @@ window.songChatoe2735 = class {
 [293000, `Home is when`],
 [294081, `I'm alone with you`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Unknown%20Brain,%20Marvin%20Divine%20-%20MATAFAKA%20(feat.%20Marvin%20Divine)%20%5BNCS%20Release%5D.mp3"), lyrics: [
+            {name: "NCS - MATAFAKA", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Unknown%20Brain,%20Marvin%20Divine%20-%20MATAFAKA%20(feat.%20Marvin%20Divine)%20%5BNCS%20Release%5D.mp3"), lyrics: [
                 [27769, `Matafaka, matafaka`],
 [48000, `Matafaka, matafaka`],
 [90696, `Uh, thank God that`],
@@ -2433,7 +2433,7 @@ window.songChatoe2735 = class {
 [252903, `Flow like water so`],
 [253917, `I'm goin' mainstream`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/nae%20nae%20niga.mp3"), lyrics: [
+            {name: "Nae Nae Niga", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/nae%20nae%20niga.mp3"), lyrics: [
                 [8895, `Zen me neng ku ne`],
 [11200, `yi que hui hao da`],
 [13800, `yi qie dou qu ba`],
@@ -2555,7 +2555,7 @@ window.songChatoe2735 = class {
 [212197, `yang guang cai hong`],
 [213397, `xiao bai ma`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eminem_-_Mockingbird_(Hydr0.org).mp3"), lyrics: [
+            {name: "Eminem - Mockingbird", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eminem_-_Mockingbird_(Hydr0.org).mp3"), lyrics: [
 [2500, `Yeah`],
 [4660, `I know sometimes`],
 [6069, `Things may not always make`],
@@ -2739,7 +2739,7 @@ window.songChatoe2735 = class {
 [247342, `don't fuck with Dad`],
 [248564, `(Haha)`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Yungatina_-_7_Weeks_3_Days_(Hydr0.org).mp3"), lyrics: [
+            {name: "Yungatina - 7 Weeks 3 Days", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Yungatina_-_7_Weeks_3_Days_(Hydr0.org).mp3"), lyrics: [
                 [15469, `When we met, I just knew`],
 [18004, `That I already loved you,`],
 [19907, `true, true`],
@@ -2817,7 +2817,7 @@ window.songChatoe2735 = class {
 [187900, `It's been seven weeks`],
 [189150, `and three days, days`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/ABBA_-_Gimme_Gimme_Gimme_A_Man_After_Midnight_(Hydr0.org).mp3"), lyrics: [
+            {name: "ABBA - Gimme Gimme Gimme", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/ABBA_-_Gimme_Gimme_Gimme_A_Man_After_Midnight_(Hydr0.org).mp3"), lyrics: [
                 [36154, `Half past twelve`],
 [38000, `And I'm watchin' the late show`],
 [39927, `in my flat, all alone`],
@@ -2881,7 +2881,7 @@ window.songChatoe2735 = class {
 [259823, `Take me through the darkness`],
 [261543, `to the break of the day`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/One_Direction_-_What_Makes_You_Beautiful_(Hydr0.org).mp3"), lyrics: [
+            {name: "One Direction - What Makes You Beautiful", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/One_Direction_-_What_Makes_You_Beautiful_(Hydr0.org).mp3"), lyrics: [
                 [6755, `You're insecure,`],
 [8671, `don't know what for`],
 [10589, `You're turnin' heads`],
@@ -2969,7 +2969,7 @@ window.songChatoe2735 = class {
 [192498, `oh-oh`],
 [193665, `Thats what makes you beautiful`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Unknown_-_The_Coconut_Song_Da_Coconut_Nut_(Hydr0.org).mp3"), lyrics: [
+            {name: "The Coconut Song", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Unknown_-_The_Coconut_Song_Da_Coconut_Nut_(Hydr0.org).mp3"), lyrics: [
                 [300, `La la la, la la la la,`],
 [2238, `la la la la la la`],
 [3847, `La la la, la la la la,`],
@@ -3097,7 +3097,7 @@ window.songChatoe2735 = class {
 [206900, `la la la la la`],
 [208630, `Hooray`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Neighboorhood_-_Sweater_Weather_(Hydr0.org).mp3"), lyrics: [
+            {name: "The Neighbourhood - Sweater Weather", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The_Neighboorhood_-_Sweater_Weather_(Hydr0.org).mp3"), lyrics: [
                 [20957, `And all I am is a man`],
 [24559, `I want the world in my hands`],
 [28200, `I hate the beach`],
@@ -3178,7 +3178,7 @@ window.songChatoe2735 = class {
 [237606, `it's too cold`],
 [240600, `The holes of my sweater`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eminem%20-%20Rap%20God%20(Explicit)%20%5BXbGs_qK2PQA%5D.mp3"), lyrics: [
+            {name: "Eminem - Rap God", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Eminem%20-%20Rap%20God%20(Explicit)%20%5BXbGs_qK2PQA%5D.mp3"), lyrics: [
                 [869, `Look,`],
 [2000, `I was gonna go easy on`],
 [2700, `you not to hurt your feelings`],
@@ -3494,7 +3494,7 @@ window.songChatoe2735 = class {
 [356976, `Think not, why be a king`],
 [359100, `when you can be a God?`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Tung%20Tung%20Tung%20Sahur%20-%20Ratatung%20(official%20song)%20%5BTZAdoZy6y34%5D.mp3"), lyrics: [
+            {name: "Tung Tung Tung Sahur - Ratatung", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Tung%20Tung%20Tung%20Sahur%20-%20Ratatung%20(official%20song)%20%5BTZAdoZy6y34%5D.mp3"), lyrics: [
                 [1, `Tung`],
 [748, `Ratata ta tung`],
 [2525, `Ratata ta tung`],
@@ -3554,7 +3554,7 @@ window.songChatoe2735 = class {
 [110035, `Ratata ta tung (hey)`],
 [112012, `Ratata ta tung tung tung SAHUR`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Quadeca%20-%20Candles%20On%20Fire!%20(Music%20Video)%20%5Bq--d8YJiJsE%5D.mp3"), lyrics: [
+            {name: "Quadeca - Candles On Fire", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Quadeca%20-%20Candles%20On%20Fire!%20(Music%20Video)%20%5Bq--d8YJiJsE%5D.mp3"), lyrics: [
                 [24800, `Woke up feeling mad today`],
 [26300, `Bitch, im ugly, but`],
 [26900, `I act like Timmy Chalamet, uh`],
@@ -3690,7 +3690,7 @@ window.songChatoe2735 = class {
 [178419, `avalanches go by and`],
 [180230, `even enjoy the view`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The%20Kid%20LAROI,%20Justin%20Bieber%20-%20STAY%20(Official%20Video)%20%5BkTJczUoc26U%5D.mp3"), lyrics: [
+            {name: "Justin Bieber - Stay", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/The%20Kid%20LAROI,%20Justin%20Bieber%20-%20STAY%20(Official%20Video)%20%5BkTJczUoc26U%5D.mp3"), lyrics: [
                 [30600, `I do the same`],
 [31500, `thing I told you that`],
 [32399, `I never would`],
@@ -3780,7 +3780,7 @@ window.songChatoe2735 = class {
 [151991, `I need you to stay,`],
 [152856, `need you to stay, hey`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/the%20rare%20occasions%20-%20notion%20%5B%20sped%20up%20%5D%20lyrics.mp3"), lyrics: [
+            {name: "The Rare Occasions - Notion (Sped Up)", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/the%20rare%20occasions%20-%20notion%20%5B%20sped%20up%20%5D%20lyrics.mp3"), lyrics: [
   [9932, "Sure, it's a calming notion,"],
   [12416, "perpetual in motion"],
   [15056, "But I don't need the comfort"],
@@ -3839,7 +3839,7 @@ window.songChatoe2735 = class {
   [157414, "but it's a liee"],
   [157958, "but it's a lieee"]
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/CLOSE%20CALL%20%5BOOwqHDVZy18%5D.mp3"), lyrics: [
+            {name: "Civilian - Close Call", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/CLOSE%20CALL%20%5BOOwqHDVZy18%5D.mp3"), lyrics: [
                 [4969, `I just gotta let you know`],
 [7100, `Ever since you called me`],
 [9100, `Im tearing up my schedule`],
@@ -3931,7 +3931,7 @@ window.songChatoe2735 = class {
 [153060, `I'll never be your best`],
 [155240, `I'm letting you go`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/North%20Memphis%20%5BtRF4J5WDJhw%5D.mp3"), lyrics: [
+            {name: "Pharmacist - North Memphis", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/North%20Memphis%20%5BtRF4J5WDJhw%5D.mp3"), lyrics: [
                 [11200, `Pharmacist motherfucker`],
 [12500, `Project Pat don't give a fu-`],
 [18400, `Project Pat don't give a fuck`],
@@ -3977,7 +3977,7 @@ window.songChatoe2735 = class {
 [69838, `Project Pat don't give a fuck`],
 [72700, `Pharmacist motherfucker`],
                 ], index: 0},
-            {audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Maroon%205,%20Wiz%20Khalifa%20%E2%80%93%20Payphone%20(Lyrics)%20%5BbbdsIR4UHDg%5D.mp3"), lyrics: [
+            {name: "Maroon 5 - Payphone", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Maroon%205,%20Wiz%20Khalifa%20%E2%80%93%20Payphone%20(Lyrics)%20%5BbbdsIR4UHDg%5D.mp3"), lyrics: [
                 [179, `I'm at a payphone,`],
 [2091, `trying to call home`],
 [4345, `All of my change,`],
@@ -4099,9 +4099,104 @@ window.songChatoe2735 = class {
 [224266, `I'll be sick`],
 [226662, `Now I'm at a payphone`],
                 ], index: 0},
+            {name: "Passenger - Let Her Go", audio: new Audio("https://github.com/oe2735/music/raw/refs/heads/main/Passenger%20-%20Let%20Her%20Go%20(Lyrics)%20%5B_BCtgSCulIU%5D.mp3"), lyrics: [
+                [26400, `Well you only need the light`],
+[27899, `when it's burning low`],
+[29855, `Only miss the sun`],
+[31117, `when it starts to snow`],
+[33347, `Only know you love her`],
+[34336, `when you let her go`],
+[39439, `Only know you've been high`],
+[40775, `when you're feeling low`],
+[42841, `Only hate the road`],
+[44015, `when you're missing home`],
+[46122, `Only know you love her`],
+[47285, `when you let her go`],
+[52313, `And you let her go`],
+[65956, `Staring at the bottom`],
+[66900, `of your glass`],
+[68300, `Hoping one day`],
+[69500, `you'll make a dream last`],
+[71303, `But dreams come slow`],
+[72582, `and they go so fast`],
+[78200, `You see her when`],
+[78969, `you close your eyes`],
+[80876, `Maybe one day`],
+[82064, `you'll understand why`],
+[84057, `Everything you touch`],
+[85500, `surely dies`],
+[90192, `But you only need the light`],
+[91513, `when it's burning low`],
+[93472, `Only miss the sun`],
+[94655, `when it starts to snow`],
+[96800, `Only know you love her`],
+[97925, `when you let her go`],
+[103050, `Only know you've been high`],
+[104275, `when you're feeling low`],
+[106400, `Only hate the road`],
+[107444, `when you're missing home`],
+[109550, `Only know you love her`],
+[110644, `when you let her go`],
+[116791, `Staring at the ceiling`],
+[117891, `in the dark`],
+[119089, `Same old empty feeling`],
+[121117, `in your heart`],
+[122309, `'Cause love comes slow`],
+[123523, `and it goes so fast`],
+[129334, `Well you see her`],
+[129897, `when you fall asleep`],
+[131747, `But never to touch`],
+[132860, `and never to keep`],
+[134745, `'Cause you loved her too much`],
+[136557, `and you dive too deep`],
+[141231, `Well you only need the light`],
+[142511, `when it's burning low`],
+[144465, `Only miss the sun`],
+[145685, `when it starts to snow`],
+[147851, `Only know you love her`],
+[148932, `when you let her go`],
+[154031, `Only know you've been high`],
+[155348, `when you're feeling low`],
+[157488, `Only hate the road`],
+[158563, `when you're missing home`],
+[160648, `Only know you love her`],
+[161857, `when you let her go`],
+[166755, `And you let her go`],
+[168900, `Oh oh`],
+[170600, `oh no`],
+[173269, `And you let her go`],
+[175000, `Oh oh`],
+[176962, `oh no`],
+[179493, `Well you let her go`],
+[192369, `'Cause you only need the light`],
+[193883, `when it's burning low`],
+[196030, `Only miss the sun`],
+[197100, `when it starts to snow`],
+[199172, `Only know you love her`],
+[200329, `when you let her go`],
+[205200, `Only know you've been high`],
+[206663, `when you're feeling low`],
+[208758, `Only hate the road`],
+[209862, `when you're missing home`],
+[212069, `Only know you love her`],
+[213053, `when you let her go`],
+[218200, `'Cause you only need the light`],
+[219700, `when it's burning low`],
+[221644, `Only miss the sun`],
+[223000, `when it starts to snow`],
+[225193, `Only know you love her`],
+[226322, `when you let her go`],
+[232045, `Only know you've been high`],
+[233600, `when you're feeling low`],
+[235969, `Only hate the road`],
+[237100, `when you're missing home`],
+[239696, `Only know you love her`],
+[240900, `when you let her go`],
+[246969, `And you let her go`],
+                ], index: 0},
         ];
         this.playing = false;
-        this.currentSong = null;
+        this.currentSong = 0;
         this.lastSendTime = -1;
         this.sing = true;
     }
