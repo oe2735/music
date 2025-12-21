@@ -16684,9 +16684,9 @@
         ]
     },
     {
-        name: "Busta Rhymes - Taking Everything",
-        url: "https://github.com/oe2735/music/raw/refs/heads/main/'Taking%20Everything'%20Lyric%20Video%20by%20Busta%20Rhymes%20%EF%BD%9C%20THE%20BAD%20GUYS%202%20%5BDWkev5jYRk8%5D.mp3",
-        lyrics: [
+        "name": "Busta Rhymes - Taking Everything",
+        "url": "https://github.com/oe2735/music/raw/refs/heads/main/'Taking%20Everything'%20Lyric%20Video%20by%20Busta%20Rhymes%20%EF%BD%9C%20THE%20BAD%20GUYS%202%20%5BDWkev5jYRk8%5D.mp3",
+        "lyrics": [
             [811, "Yeah! Yeah! Yeah! Yeah!"],
             [3062, "Let's go! Let's go!"],
             [4300, "Let's go! Let's go!"],
