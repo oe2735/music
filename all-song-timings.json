@@ -16820,9 +16820,9 @@
         ]
     },
     {
-        name: "Italo Brothers - My Life is a Party",
-        url: "https://github.com/oe2735/music/raw/refs/heads/main/ItaloBrothers%20-%20My%20Life%20Is%20A%20Party%20(Lyrics)%20%5B-ZaqxqER2ps%5D.mp3",
-        lyrics: [
+        "name": "Italo Brothers - My Life is a Party",
+        "url": "https://github.com/oe2735/music/raw/refs/heads/main/ItaloBrothers%20-%20My%20Life%20Is%20A%20Party%20(Lyrics)%20%5B-ZaqxqER2ps%5D.mp3",
+        "lyrics": [
             [1400, "I say hey"],
 [2600, "(I say hey)"],
 [8381, "New York"],
